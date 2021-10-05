@@ -1,2 +1,2 @@
 # Portfolio-Website
-Portfolio website built with ReactJS, NextJS and TailwindCSS
+Portfolio website built with ReactJS, NodeJS
